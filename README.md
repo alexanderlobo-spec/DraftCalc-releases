@@ -46,9 +46,9 @@ Baixe o arquivo da versão nova e instale por cima. As planilhas ficam onde voc�
 
 ## Versão atual
 
-0.7.0-draftcalc.1 (15/out/2026).
+0.7.0-draftcalc.2 (15/out/2026).
 
-Novidades: primeira versão. Interface Manzana (Linha, Biblioteca, Trilho) nas três aparências Manzana, Céu e Grafite, em português do Brasil, inglês e espanhol; salvamento automático em arquivo aberto e recuperação de pastas de trabalho; botão Fechar; abre e salva `.xlsx`, `.csv` e `.tsv`.
+Novidades: faixa completa com a mesma identidade visual do DraftWord (121 ícones da família Manzana Line, cabeçalho, menus e diálogos redesenhados); menus, diálogos, menu nativo do macOS e ajuda de 514 funções em português; revisão visual dos diálogos no claro e no escuro; correção de menus que ficavam abertos sobre o diálogo. A versão anterior (draftcalc.1) trouxe a interface Manzana nas três aparências, três idiomas, salvamento automático e recuperação, botão Fechar e suporte a `.xlsx`, `.csv` e `.tsv`.
 
 ## Código-fonte
 

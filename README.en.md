@@ -46,9 +46,9 @@ Download the new version's file and install it over the old one. Your workbooks 
 
 ## Current version
 
-0.7.0-draftcalc.1 (October 15, 2026).
+0.7.0-draftcalc.2 (October 15, 2026).
 
-What's new: first release. Manzana interface (Linha, Library, Trilho) in the three looks Manzana, Céu and Grafite, in Brazilian Portuguese, English and Spanish; AutoSave on opened files and workbook recovery; Close button; opens and saves `.xlsx`, `.csv` and `.tsv`.
+What's new: full ribbon with the same visual identity as DraftWord (121 Manzana Line icons, redesigned header, menus and dialogs); menus, dialogs, native macOS menu and help for 514 functions in Portuguese; visual review of dialogs in light and dark; fix for menus staying open over the dialog. The previous release (draftcalc.1) brought the Manzana interface in three looks, three languages, AutoSave and recovery, the Close button and `.xlsx`, `.csv` and `.tsv` support.
 
 ## Source code
 
