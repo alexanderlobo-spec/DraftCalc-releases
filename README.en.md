@@ -47,9 +47,9 @@ Download the new version's file and install it over the old one. Your workbooks 
 
 ## Current version
 
-0.7.0-draftcalc.3 (October 16, 2026).
+0.7.0-draftcalc.4 (October 17, 2026).
 
-What's new: the Windows installer is now an `.exe`, which Edge accepts more readily than the `.msi` and installs without an administrator password. From .2: full ribbon with the same visual identity as DraftWord (121 Manzana Line icons, redesigned header, menus and dialogs); menus, dialogs, native macOS menu and help for 514 functions in Portuguese; visual review of dialogs in light and dark; fix for menus staying open over the dialog. The previous release (draftcalc.1) brought the Manzana interface in three looks, three languages, AutoSave and recovery, the Close button and `.xlsx`, `.csv` and `.tsv` support.
+What's new: the interface no longer mentions Microsoft brands where a neutral term exists: "Excel Workbook" became "XLSX Workbook" (likewise for `.xls` and `.xlsb`), Save a Copy says ".xlsx workbook" and error messages follow the same rule. From .3: the Windows installer is an `.exe`, which Edge accepts more readily than the `.msi` and installs without an administrator password. From .2: full ribbon with the same visual identity as DraftWord (121 Manzana Line icons, redesigned header, menus and dialogs); menus, dialogs, native macOS menu and help for 514 functions in Portuguese; visual review of dialogs in light and dark; fix for menus staying open over the dialog. The previous release (draftcalc.1) brought the Manzana interface in three looks, three languages, AutoSave and recovery, the Close button and `.xlsx`, `.csv` and `.tsv` support.
 
 ## Source code
 

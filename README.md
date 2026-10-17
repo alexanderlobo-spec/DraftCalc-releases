@@ -47,9 +47,9 @@ Baixe o arquivo da versão nova e instale por cima. As planilhas ficam onde voc�
 
 ## Versão atual
 
-0.7.0-draftcalc.3 (16/out/2026).
+0.7.0-draftcalc.4 (17/out/2026).
 
-Novidades: o instalador do Windows agora é um `.exe`, que o Edge aceita melhor que o `.msi` e instala sem senha de administrador. Da .2: faixa completa com a mesma identidade visual do DraftWord (121 ícones da família Manzana Line, cabeçalho, menus e diálogos redesenhados); menus, diálogos, menu nativo do macOS e ajuda de 514 funções em português; revisão visual dos diálogos no claro e no escuro; correção de menus que ficavam abertos sobre o diálogo. A versão anterior (draftcalc.1) trouxe a interface Manzana nas três aparências, três idiomas, salvamento automático e recuperação, botão Fechar e suporte a `.xlsx`, `.csv` e `.tsv`.
+Novidades: a interface deixou de citar marcas da Microsoft onde havia termo neutro: "Pasta de trabalho do Excel" virou "Pasta de trabalho XLSX" (e o mesmo para `.xls` e `.xlsb`), Salvar uma cópia fala em "pasta de trabalho .xlsx" e as mensagens de erro seguem o mesmo critério. Da .3: o instalador do Windows é um `.exe`, que o Edge aceita melhor que o `.msi` e instala sem senha de administrador. Da .2: faixa completa com a mesma identidade visual do DraftWord (121 ícones da família Manzana Line, cabeçalho, menus e diálogos redesenhados); menus, diálogos, menu nativo do macOS e ajuda de 514 funções em português; revisão visual dos diálogos no claro e no escuro; correção de menus que ficavam abertos sobre o diálogo. A versão anterior (draftcalc.1) trouxe a interface Manzana nas três aparências, três idiomas, salvamento automático e recuperação, botão Fechar e suporte a `.xlsx`, `.csv` e `.tsv`.
 
 ## Código-fonte
 
