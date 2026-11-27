@@ -15,7 +15,7 @@ Baseado no [GridCraft](https://github.com/storytold/gridcraft) (MIT OR Apache-2.
 
 | Sistema | Arquivo | Observações |
 |---|---|---|
-| macOS 11+ (Intel e Apple Silicon) | [`macOS/`](macOS/) — `.dmg` universal | Assinado com Developer ID e notarizado pela Apple: abre sem avisos. Arraste o DraftCalc para Aplicativos. |
+| macOS 11+ (Intel e Apple Silicon) | [Baixar o DMG universal](https://github.com/alexanderlobo-spec/DraftCalc-releases/releases/download/v0.7.0-draftcalc.7/DraftCalc-0.7.0-draftcalc.7-macOS-universal-2026-11-27.dmg) | [Notas da versão e SHA-256](https://github.com/alexanderlobo-spec/DraftCalc-releases/releases/tag/v0.7.0-draftcalc.7) |
 | Windows 10/11 (x64) | [`windows/`](windows/) — `.exe` ou `.zip` portátil | Sem certificado de assinatura: na primeira abertura o SmartScreen pode avisar; escolha "Mais informações › Executar assim mesmo". |
 
 Cada arquivo tem um `.sha256` ao lado para conferência.
@@ -24,7 +24,7 @@ Cada arquivo tem um `.sha256` ao lado para conferência.
 
 ### macOS
 
-1. Entre na pasta [`macOS/`](macOS/), clique no arquivo `.dmg` e depois no botão **Download**.
+1. [Baixe o DraftCalc para macOS](https://github.com/alexanderlobo-spec/DraftCalc-releases/releases/download/v0.7.0-draftcalc.7/DraftCalc-0.7.0-draftcalc.7-macOS-universal-2026-11-27.dmg).
 2. Abra o arquivo baixado. Aparece uma janela com o ícone do DraftCalc e a pasta Aplicativos.
 3. Arraste o DraftCalc para Aplicativos.
 4. Abra o DraftCalc pelo Launchpad ou pela pasta Aplicativos. Não há aviso: o app é notarizado pela Apple.
@@ -45,11 +45,11 @@ Cada arquivo tem um `.sha256` ao lado para conferência.
 
 Baixe o arquivo da versão nova e instale por cima. As planilhas ficam onde você salvou; a instalação não mexe neles.
 
-## Versão atual
+## Versão atual para macOS
 
-0.7.0-draftcalc.6 (23/nov/2026).
+[0.7.0-draftcalc.7](https://github.com/alexanderlobo-spec/DraftCalc-releases/releases/tag/v0.7.0-draftcalc.7) (27/nov/2026).
 
-Novidades: duas ou mais pastas de trabalho abertas ao mesmo tempo, cada uma na sua janela (Novo e Abrir com uma pasta em uso abrem outra janela; cada janela é um processo, então no Dock aparece um ícone por janela), e uma faixa de abas quando mais de uma pasta chega à mesma janela. A linha de abas da faixa rola em janela estreita. No Windows, a atualização por cima da versão anterior passou a ser recuperável. Da .4: a interface deixou de citar marcas da Microsoft onde havia termo neutro, e o instalador do Windows é um `.exe`.
+O idioma escolhido permanece salvo quando outra janela que já estava aberta é fechada.
 
 ## Código-fonte
 

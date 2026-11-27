@@ -15,7 +15,7 @@ interface, icons and themes. License notices and attributions ship inside each p
 
 | System | File | Notes |
 |---|---|---|
-| macOS 11+ (Intel and Apple Silicon) | [`macOS/`](macOS/) — universal `.dmg` | Signed with a Developer ID and notarized by Apple: opens without warnings. Drag DraftCalc to Applications. |
+| macOS 11+ (Intel and Apple Silicon) | [Download the universal DMG](https://github.com/alexanderlobo-spec/DraftCalc-releases/releases/download/v0.7.0-draftcalc.7/DraftCalc-0.7.0-draftcalc.7-macOS-universal-2026-11-27.dmg) | [Release notes and SHA-256](https://github.com/alexanderlobo-spec/DraftCalc-releases/releases/tag/v0.7.0-draftcalc.7) |
 | Windows 10/11 (x64) | [`windows/`](windows/) — `.exe` or portable `.zip` | No code-signing certificate: on first launch SmartScreen may warn; choose "More info › Run anyway". |
 
 Each file has a `.sha256` next to it for verification.
@@ -24,7 +24,7 @@ Each file has a `.sha256` next to it for verification.
 
 ### macOS
 
-1. Open the [`macOS/`](macOS/) folder, click the `.dmg` file, then the **Download** button.
+1. [Download DraftCalc for macOS](https://github.com/alexanderlobo-spec/DraftCalc-releases/releases/download/v0.7.0-draftcalc.7/DraftCalc-0.7.0-draftcalc.7-macOS-universal-2026-11-27.dmg).
 2. Open the downloaded file. A window shows the DraftCalc icon next to the Applications folder.
 3. Drag DraftCalc onto Applications.
 4. Launch DraftCalc from Launchpad or the Applications folder. There is no warning: the app is notarized by Apple.
@@ -45,11 +45,11 @@ Each file has a `.sha256` next to it for verification.
 
 Download the new version's file and install it over the old one. Your workbooks stay where you saved them; the installation does not touch them.
 
-## Current version
+## Current macOS version
 
-0.7.0-draftcalc.6 (November 23, 2026).
+[0.7.0-draftcalc.7](https://github.com/alexanderlobo-spec/DraftCalc-releases/releases/tag/v0.7.0-draftcalc.7) (November 27, 2026).
 
-What's new: two or more workbooks open at the same time, each in its own window (New and Open with a workbook in use open another window; each window is a process, so the Dock shows one icon per window), and a row of document tabs when more than one workbook lands in the same window. The ribbon's tab row scrolls in a narrow window. On Windows, updating over the previous version is now recoverable. From .4: the interface no longer mentions Microsoft brands where a neutral term exists, and the Windows installer is an `.exe`.
+The selected language is preserved when another window that was already open closes.
 
 ## Source code
 
